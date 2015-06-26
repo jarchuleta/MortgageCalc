@@ -1,0 +1,52 @@
+﻿body {
+}
+
+
+.Box
+{
+    border-style: solid;
+}
+
+.Input Table
+{
+	width:100%;
+}
+
+
+
+
+.center
+{
+	text-align: center;
+}
+
+.Panels
+{
+	background-color:#333333;
+	float:left;
+	width:45%;
+	height:250px;
+}
+.Summary
+{
+	float:right;
+	width:45%;
+	height:250px;
+
+
+}
+
+
+
+
+.Chart
+{
+	float: right;
+	width: 507px;
+}
+
+.List
+{
+	float: left;
+}
+
